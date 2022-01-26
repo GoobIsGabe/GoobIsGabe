@@ -30,7 +30,6 @@ I am one who showcases knowledge, optimism, and passion for all realms of develo
 
 ![](https://img.shields.io/badge/Code-Java-007396?logo=java&logoColor=white&logoWidth=15)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-
 </br>
 
 ![](https://img.shields.io/badge/Server-Hibernate-59666C?logo=hibernate&logoColor=white&logoWidth=15)
@@ -47,12 +46,14 @@ I am one who showcases knowledge, optimism, and passion for all realms of develo
 ![](https://img.shields.io/badge/Web-JavaScript-F7DF1E?logo=javascript&logoColor=white&logoWidth=15)
 ![](https://img.shields.io/badge/Web-Angular-DD0031?logo=angular&logoColor=white&logoWidth=15)
 </br>
+
 ![](https://img.shields.io/badge/DevOps-Maven-C71A36?logo=apache-maven&logoColor=white&logoWidth=15)
 ![](https://img.shields.io/badge/DevOps-Docker-2496ED?logo=docker&logoColor=white&logoWidth=15)
 ![](https://img.shields.io/badge/DevOps-Jenkins-D24939?logo=jenkins&logoColor=white&logoWidth=15)
 ![](https://img.shields.io/badge/Services-Git-F05032?logo=git&logoColor=white&logoWidth=15)
 ![](https://img.shields.io/badge/Services-AWS-232F3E?logo=amazon-aws&logoColor=white&logoWidth=15)
 </br>
+
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&color=47A248)
@@ -62,9 +63,7 @@ I am one who showcases knowledge, optimism, and passion for all realms of develo
 ## 📈 GitHub Stats
 
 
-[![Gabe's github stats](https://github-readme-stats.vercel.app/api?username=goobisgabe&theme=noctis_minimus)](https://github.com/goobisgabe)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goobisgabe&layout=compact&theme=noctis_minimus)](https://github.com/goobisgabe)
+[![Gabe's github stats](https://github-readme-stats.vercel.app/api?username=goobisgabe&line_height=20&theme=noctis_minimus)](https://github.com/goobisgabe) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goobisgabe&layout=compact&theme=noctis_minimus)](https://github.com/goobisgabe)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=GoobIsGabe.GoobIsGabe)](https://github.com/goobisgabe)
 
