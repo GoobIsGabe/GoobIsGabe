@@ -63,7 +63,7 @@ I am one who showcases knowledge, optimism, and passion for all realms of develo
 ## 📈 GitHub Stats
 
 
-[![Gabe's github stats](https://github-readme-stats.vercel.app/api?username=goobisgabe&line_height=20&theme=noctis_minimus)](https://github.com/goobisgabe) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goobisgabe&layout=compact&theme=noctis_minimus)](https://github.com/goobisgabe)
+[![Gabe's github stats](https://github-readme-stats.vercel.app/api?username=goobisgabe&line_height=20&theme=noctis_minimus)](https://github.com/goobisgabe)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goobisgabe&layout=compact&theme=noctis_minimus)](https://github.com/goobisgabe)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=GoobIsGabe.GoobIsGabe)](https://github.com/goobisgabe)
 
