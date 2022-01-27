@@ -69,9 +69,9 @@ I am one who showcases knowledge, optimism, and passion for all realms of develo
 
 ## 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/gabe-harper/" target="_blank" rel="noreferrer"><img align="left" src="https://user-images.githubusercontent.com/13267272/151232731-9873f65c-efdf-48a9-9b0f-4260a16161f7.svg" alt="Gabe Harper | LinkedIn" width="25px"/></a>
-<a href="https://instagram.com/goobisgabe" target="_blank" rel="noreferrer"><img align="left" src="https://user-images.githubusercontent.com/13267272/151232824-8866235b-b4d9-4ce2-b579-fd4ee8fde146.svg" alt="Gabe Harper | Instagram" width="25px"/></a>
-<a href="https://twitter.com/GoobIsGabe" target="_blank" rel="noreferrer"><img align="left" src="https://user-images.githubusercontent.com/13267272/151232919-4b4fef40-f72f-4ebd-9be5-780e5d913e74.svg" alt="Gabe Harper | Twitter" width="25px"/></a>
+<a href="https://www.linkedin.com/in/gabe-harper/" target="_blank" rel="noreferrer noopener"><img align="left" src="https://user-images.githubusercontent.com/13267272/151232731-9873f65c-efdf-48a9-9b0f-4260a16161f7.svg" alt="Gabe Harper | LinkedIn" width="25px"/></a>
+<a href="https://instagram.com/goobisgabe" target="_blank" rel="noreferrer noopener"><img align="left" src="https://user-images.githubusercontent.com/13267272/151232824-8866235b-b4d9-4ce2-b579-fd4ee8fde146.svg" alt="Gabe Harper | Instagram" width="25px"/></a>
+<a href="https://twitter.com/GoobIsGabe" target="_blank" rel="noreferrer noopener"><img align="left" src="https://user-images.githubusercontent.com/13267272/151232919-4b4fef40-f72f-4ebd-9be5-780e5d913e74.svg" alt="Gabe Harper | Twitter" width="25px"/></a>
 </br>
 - 💬 If you have any question/feedback, or just chat feel free reach out to me!
 
