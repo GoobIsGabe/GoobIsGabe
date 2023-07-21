@@ -17,12 +17,10 @@ I am one who showcases knowledge, optimism, and passion for all realms of develo
 - My website
 - Revamping graphics for content creation
 - Animations, detailing and other webkit capabilities
-- Review of the fundamentals of Java
-- Moving out
 
 ## 🌱 I'm currently learning
 
-- Houdini CSS
+- Advanced Google Sheets Functions
 - Styled Components  
 
 ## 💼 Previous Experience
